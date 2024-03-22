@@ -1,6 +1,6 @@
 // Dup prints the count and text of lines that appear more than once in the named
 // input files. It reads in entire file at once ("slurp" mode). Adapted from
-// github.com/adonovan/gopl.io/tree/master/ch1/dup3.
+// https://github.com/adonovan/gopl.io/tree/master/ch1/dup3.
 package main
 
 import (
